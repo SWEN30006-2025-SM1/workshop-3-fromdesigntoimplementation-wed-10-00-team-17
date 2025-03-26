@@ -3,6 +3,7 @@ package com.unimelb.swen30006.workshops;
 // Sample private submission class to be replaced by your implementation
 public class Submission {
     private String tania;
+    private String axel;
     // Return two fake files
     public File[] includedFiles(){
         File[] files = new File[2];
